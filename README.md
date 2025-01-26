@@ -10,6 +10,4 @@
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> <a href="https://aws.com" target="_blank" rel="noreferrerer""" width" show-content" src/com/sraw width" sraw/com/sref width"/com/show-sref-swow/content/content/sr/m/master/con/con/cons/amazon/amazonwebserviceservices-original-wordmark.s="aws="40" width="40"> </a href="https://www.cprogramming.com/" target="_blank" reler"> <imgits="https://raw.hubuser.com/devicons/devicon/cons/cons/master/m height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs? username=iremsdursun&show_icons=true&locale=en&layout=compact" alt="iremsdursun" /></p>
-
 
